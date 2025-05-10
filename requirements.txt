@@ -1,0 +1,13 @@
+requests
+numpy
+pillow
+opencv-python
+pytesseract
+pyautogui
+pynput
+mss
+python-dotenv
+loguru
+transformers
+psutil
+concurrent-log-handler
